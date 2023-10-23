@@ -1,0 +1,26 @@
+h1 {
+    font-weight: 300;
+    font-size: 8vw;
+}
+
+h1::first-letter {
+    font-size: 10vw;
+}
+
+.lineText {
+    max-width: 38vw;
+    line-height: 1px;
+}
+
+.aboutText {
+    max-width: 41vw;
+    line-height: 40px;
+}
+
+.box {
+  height:93vh;
+  background:
+  linear-gradient(to bottom right,#000 49.8%,transparent 50%) 0 0/90% 98%,
+  linear-gradient(to top left,#000 0%,transparent 60%) 0 0/90% 98%;
+  background-repeat:no-repeat;
+}
