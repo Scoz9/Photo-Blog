@@ -1,0 +1,22 @@
+h1 {
+    font-size: clamp(1.2rem, 2vw, 2rem);
+}
+
+h1 a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+    text-shadow: 2px 2px #FF0000;
+}
+
+hr {
+    width: 95%;
+}
+
+.content {
+    max-width: 101%;
+}
